@@ -1,2 +1,2 @@
 # TechBlog
-Advanced java Blog Website Project
+Advanced java Blog WebApp Project
